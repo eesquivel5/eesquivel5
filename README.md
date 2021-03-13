@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eesquivel5
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Cripto
+- 💞️ I’m looking to collaborate on Cryptocurrency
 - 📫 How to reach me ...
 
 <!---
